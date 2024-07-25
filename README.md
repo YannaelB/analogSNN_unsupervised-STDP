@@ -31,4 +31,7 @@ This repository contains code and resources for the Analog Spiking Neuron Model 
 
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT license. See the LICENSE file for details.
+
+### Citation
+Yannaël BOSSARD. (2024). YannaelB/analogSNN_unsupervised-STDP: analogSNN_unsupervised-STDP. Zenodo. https://doi.org/10.5281/zenodo.12839336
