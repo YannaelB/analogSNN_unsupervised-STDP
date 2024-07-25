@@ -1,0 +1,80 @@
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 2 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.  0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 4 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.  0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 20 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.875 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 75.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.75  0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 2 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.  0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 3 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.   0.75 0.5 ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.875 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 2 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.625 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 6 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.   0.75 0.5 ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 3 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.    0.875 0.5  ]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 1 epoch for reaching 100.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [1.  0.5 0.5]
+

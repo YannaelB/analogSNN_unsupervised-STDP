@@ -1,0 +1,70 @@
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+
+
+ Method unsupervised with  13 output neurons: 
+ It has taken 100 epoch for reaching 50.0 '%' accuracy 
+ The three observed accuracy are are the end of the training = [0.5 0.5 0.5]
+

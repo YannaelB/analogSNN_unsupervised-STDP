@@ -1,0 +1,130 @@
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 7.0 epoch for reaching 100'%' accuracy 
+[7]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 53.0 epoch for reaching 100'%' accuracy 
+[ 7 99]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 68.66666666666667 epoch for reaching 100'%' accuracy 
+[  7  99 100]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 76.5 epoch for reaching 100'%' accuracy 
+[  7  99 100 100]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 67.8 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 56.666666666666664 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33   1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 48.714285714285715 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33   1   1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 43.375 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33   1   1   6]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 39.111111111111114 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33   1   1   6   5]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 35.3 epoch for reaching 100'%' accuracy 
+[  7  99 100 100  33   1   1   6   5   1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 3.0 epoch for reaching 100'%' accuracy 
+[3]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 2.0 epoch for reaching 100'%' accuracy 
+[3 1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 2.0 epoch for reaching 100'%' accuracy 
+[3 1 2]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 6.25 epoch for reaching 100'%' accuracy 
+[ 3  1  2 19]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 6.4 epoch for reaching 100'%' accuracy 
+[ 3  1  2 19  7]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 6.333333333333333 epoch for reaching 100'%' accuracy 
+[ 3  1  2 19  7  6]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 19.714285714285715 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 29.125 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 37.0 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 36.3 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 33.09090909090909 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 38.666666666666664 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1 100]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 35.84615384615385 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1 100   2]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 33.357142857142854 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1 100   2   1]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 31.466666666666665 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1 100   2   1   5]
+
+
+ Method unsupervised with  8 output neurons: 
+ It has taken on average = 29.5625 epoch for reaching 100'%' accuracy 
+[  3   1   2  19   7   6 100  95 100  30   1 100   2   1   5   1]
+

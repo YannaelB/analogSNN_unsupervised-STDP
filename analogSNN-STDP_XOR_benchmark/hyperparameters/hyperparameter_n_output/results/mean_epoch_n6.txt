@@ -1,0 +1,136 @@
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 1.0 epoch for reaching 100'%' accuracy 
+[1]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 17.5 epoch for reaching 100'%' accuracy 
+[ 1 34]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 12.666666666666666 epoch for reaching 100'%' accuracy 
+[ 1 34  3]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 34.5 epoch for reaching 100'%' accuracy 
+[  1  34   3 100]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 47.2 epoch for reaching 100'%' accuracy 
+[  1  34   3 100  98]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 40.333333333333336 epoch for reaching 100'%' accuracy 
+[  1  34   3 100  98   6]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 48.857142857142854 epoch for reaching 100'%' accuracy 
+[  1  34   3 100  98   6 100]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 43.5 epoch for reaching 100'%' accuracy 
+[  1  34   3 100  98   6 100   6]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 1.0 epoch for reaching 100'%' accuracy 
+[1]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 3.0 epoch for reaching 100'%' accuracy 
+[1 5]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 6.333333333333333 epoch for reaching 100'%' accuracy 
+[ 1  5 13]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 12.75 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 10.8 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32  3]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 10.5 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32  3  9]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 21.142857142857142 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32  3  9 85]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 25.5 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32  3  9 85 56]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 22.88888888888889 epoch for reaching 100'%' accuracy 
+[ 1  5 13 32  3  9 85 56  2]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 30.6 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 33.0 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 30.666666666666668 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 28.76923076923077 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 33.857142857142854 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 32.06666666666667 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100   7]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 30.125 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100   7   1]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 29.058823529411764 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100   7   1  12]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 27.666666666666668 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100   7   1  12   4]
+
+
+ Method unsupervised with  6 output neurons: 
+ It has taken on average = 27.842105263157894 epoch for reaching 100'%' accuracy 
+[  1   5  13  32   3   9  85  56   2 100  57   5   6 100   7   1  12   4
+  31]
+
