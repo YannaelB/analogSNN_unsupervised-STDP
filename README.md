@@ -1,4 +1,8 @@
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12839336.svg)](https://doi.org/10.5281/zenodo.12839336)
+
+
 # Analog Spiking Neuron Model for Unsupervised STDP-based Learning in Neuromorphic Circuits
 
 This repository contains code and resources for the Analog Spiking Neuron Model related to the paper 'Analog Spiking Neuron Model for Unsupervised STDP-based Learning in Neuromorphic Circuits'.
