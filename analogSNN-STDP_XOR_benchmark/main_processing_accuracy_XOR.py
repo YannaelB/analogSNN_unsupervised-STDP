@@ -308,13 +308,13 @@ def accuracy_evolution(path1,path2,path3,path11,path12,path13,path21,path31,plot
         plt.axvline(x=len(accuracy_max1)-1, color='black', linestyle='-',linewidth=0.55)
         if path2:
             plt.plot(range(len(accuracy_max2)),accuracy_max2,"g",label=f"scenario 1")
-            plt.fill_between(range(len(accuracy_max2)), accuracy_max2 - std_errs2, accuracy_max2 + std_errs2, color='gray', alpha=0.2)
+            plt.fill_between(range(len(accuracy_max2)), accuracy_max2 - std_errs2, accuracy_max2 + std_errs2, color=(0.6, 0.99, 0.6), alpha=0.4)
         if path3:
             plt.plot(range(len(accuracy_max3)),accuracy_max3 ,"r",label=f"scenario 2")
-            plt.fill_between(range(len(accuracy_max3)), accuracy_max3 - std_errs3, accuracy_max3 + std_errs3, color='gray', alpha=0.2)
+            plt.fill_between(range(len(accuracy_max3)), accuracy_max3 - std_errs3, accuracy_max3 + std_errs3, color=(0.98, 0.5, 0.447), alpha=0.4)
         if path1:
             plt.plot(range(len(accuracy_max1)),accuracy_max1,"b",label=f"scenario 3")
-            plt.fill_between(range(len(accuracy_max1)), accuracy_max1 - std_errs1, accuracy_max1 + std_errs1, color='gray', alpha=0.2)
+            plt.fill_between(range(len(accuracy_max1)), accuracy_max1 - std_errs1, accuracy_max1 + std_errs1, color=(117/255, 175/255, 244/255), alpha=0.4)
         
         plt.xlabel(f' Epoch ',fontsize=23)
         plt.xticks(np.linspace(0,99,11),range(0,110,10),fontsize=22)
